@@ -12,7 +12,7 @@ Install my-project with npm
 
 ```bash
   npm install task-3
-  cd social-backend
+  cd task-3
   npm run dev
 ```
 
