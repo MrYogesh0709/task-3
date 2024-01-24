@@ -1,30 +1,32 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# User Display
 
-Currently, two official plugins are available:
+All User Display with react+ typescript + vite .
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demo
 
-## Expanding the ESLint configuration
+https://task-3-two-delta.vercel.app
+## Installation
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Install my-project with npm
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+```bash
+  npm install task-3
+  cd social-backend
+  npm run dev
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Features
+
+- React + Vite + Typescript 
+- Axios and Material UI
+- Simple Frontend side pagination
+
+
+## 🚀 About Me
+
+I'm a full stack developer...
+
+## Feedback
+
+If you have any feedback, please reach out to us at yogeshvanzara98@gmail.com
